@@ -13,7 +13,7 @@ int main() {
 
 }
 
-int addfunc(int a, int b)
+int func_add(int a, int b)
 {
-	int c= a+b;
-	return c;
+	return a+b;
+}
